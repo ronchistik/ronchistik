@@ -7,7 +7,6 @@ const indexLinks = [...document.querySelectorAll(".index a")];
 
 const when = {
   paypal: "Now · Lead, AI initiatives",
-  scheduley: "2026 · Founded, San Jose",
   apple: "Feb 2021 to May 2024",
   versa: "Jan 2020 to Aug 2020",
   aisera: "Feb 2018 to Mar 2019",
